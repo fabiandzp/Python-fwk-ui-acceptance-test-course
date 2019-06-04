@@ -1,5 +1,5 @@
-from code.tests.acceptance.locators.blog_page import BlogPageLocators
-from code.tests.acceptance.page_model.base_page import BasePage
+from tests.acceptance.locators.blog_page import BlogPageLocators
+from tests.acceptance.page_model.base_page import BasePage
 
 
 class BlogPage(BasePage):
